@@ -1,0 +1,15 @@
+@import "lib1.module.css";
+@import "lib2.module.css";
+
+.abc {
+  width: 30px;
+}
+.abc .uiz {
+  pointer-events: auto;
+}
+h2 {
+  display: inline-block;
+}
+:global .pdc {
+  height: 20px;
+}
